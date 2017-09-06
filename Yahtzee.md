@@ -1,6 +1,6 @@
 # Mini-proyecto 1: Yahtzee
 
-1.For all probability calculations, assume you begin a particular hand (sequence of three rolls) with
+1. For all probability calculations, assume you begin a particular hand (sequence of three rolls) with
 the goal of filling a pre-specified category. Note: You will need to determine rules for which decisions
 will be made when selecting which dice to keep between rolls. Make such rules explicit in your
 write-ups.
