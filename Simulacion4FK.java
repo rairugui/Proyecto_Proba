@@ -27,7 +27,6 @@ public class Simulacion4FK
         }
       }
     }
-    
     //Bloquea la cara que mas veces salio
     //System.out.print(max_num+" "+max_rep+"\n");
     for(int reset=0;reset<5;reset++)
@@ -57,6 +56,7 @@ public class Simulacion4FK
     }
   }
   
+  //Meotodo: Simula un turno dado
   void turno()
   {
     //Cada inicio se marca verdadero para que se lancen dados
@@ -72,7 +72,7 @@ public class Simulacion4FK
     }
   }
   
-  //Simulacion
+  //Metodo: Simula 10 000 jugadas
   void simulacion()
   {
     for(int simulaciones=0;simulaciones<10000;simulaciones++)
